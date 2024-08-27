@@ -8,7 +8,9 @@ We also have transference sigil in place and the Office Script that was returned
 One simply needs to open an Excel file in their Office 365 Cloud sphere to activate the sigil and build the summoning ground for the Office Script automation.
 
 Source code VBA: 
+
 VBA Script - Remove HTML Tag.txt
 
 Source code Office Script: 
+
 Office Script - Remove HTML Tag.txt
